@@ -87,7 +87,7 @@ El directorio `docs/` contiene el material de apoyo que acompaña la exposición
 ## 📚 Referencias
 
 - Russell, S. J., & Norvig, P. (2021). *Artificial Intelligence: A Modern Approach*. Pearson.
-- Sharma, S. (2020). *Local Beam Search Algorithm in AI.* YouTube. [https://youtu.be/Ad29SjJ1GwA](https://youtu.be/Ad29SjJ1GwA)
+- Sharma, S. (2020). *Local Beam Search Algorithm in Artificial Intelligence.* YouTube. [https://youtu.be/Ad29SjJ1GwA](https://youtu.be/Ad29SjJ1GwA)
 
 ---
 
