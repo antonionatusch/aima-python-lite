@@ -44,7 +44,7 @@ aima-python-lite/
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/aima-python-lite.git
+git clone https://github.com/antonionatusch/aima-python-lite.git
 cd aima-python-lite
 ```
 
