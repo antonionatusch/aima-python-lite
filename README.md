@@ -4,7 +4,10 @@ Este repositorio contiene implementaciones de algoritmos de búsqueda desarrolla
 
 Los algoritmos utilizados fueron mayormente extraídos directamente del [repositorio oficial del libro, escrito en Python](https://github.com/aimacode/aima-python/)
 
-La tarea a resolver fue dada por lo visto en [UPSAVirtual](https://virtual.upsa.edu.bo)
+La tarea a resolver fue dada por lo visto en [UPSAVirtual:](https://virtual.upsa.edu.bo)
+
+![Captura de pantalla de la plataforma, donde se indican los temas y los estudiantes asignados.](./homework.png) 
+
 
 **Estudiante:** Antonio Miguel Natusch Zarco  
 **Fecha de entrega:** 7 de julio de 2025  
